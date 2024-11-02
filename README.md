@@ -1,4 +1,4 @@
-# Custom Image Detection Models for Cannabis Buds
+# Custom Image Detection Models for Flower Buds
 
 ### Overview
 
