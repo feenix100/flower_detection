@@ -41,6 +41,9 @@ These scripts and models were developed as part of a robotics project aimed at a
 3. **Integration with OAK-D Pro Camera**: Utilize the additional scripts to integrate the YOLO v5 models with the OAK-D Pro camera for enhanced functionality.
 
 <img src="images/prototype_examples(1).PNG" alt="Product Screenshot" width="300"/>
+<br>
+<img src="images/prototype_examples(2).PNG" alt="Product Screenshot" width="300"/>
+
 
 
 This repository provides a robust foundation for developing automated cannabis bud detection and trimming solutions, leveraging advanced image detection models and robotics integration.
