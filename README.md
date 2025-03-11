@@ -40,7 +40,7 @@ These scripts and models were developed as part of a robotics project aimed at a
 2. **Object Detection**: Use the provided script to perform object detection on images or live video.
 3. **Integration with OAK-D Pro Camera**: Utilize the additional scripts to integrate the YOLO v5 models with the OAK-D Pro camera for enhanced functionality.
 
-<img src="images/prototype_examples_(2).PNG" alt="Object Detection of Flowers with python" width="300"/>
+<img src="images/prototype_examples(2).PNG" alt="Object Detection of Flowers with python" width="300"/>
 
 
 
